@@ -23,4 +23,5 @@ Performance Evaluation: Used ROC-AUC metric to assess model accuracy.
 XGBoost: Achieved the highest training accuracy but showed signs of overfitting.
 Logistic Regression: Provided a more balanced performance between training and validation accuracy.
 
-# Conclusion: XGBoost performed well on training data but struggled with unseen data, indicating overfitting. Logistic Regression, while more stable, did not significantly outperform random guessing. The project highlighted the complexities of stock market prediction and suggested the need for more advanced models or additional data to improve accuracy.
+# Conclusion: 
+XGBoost performed well on training data but struggled with unseen data, indicating overfitting. Logistic Regression, while more stable, did not significantly outperform random guessing. The project highlighted the complexities of stock market prediction and suggested the need for more advanced models or additional data to improve accuracy.
